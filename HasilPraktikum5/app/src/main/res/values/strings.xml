@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hasil Praktikum 5</string>
+    <string name="prompt_email">Masukkan Email</string>
+    <string name="prompt_password">Masukkan Password</string>
+    <string name="action_sign_in_short">TEST DULU</string>
+    <string name="action_sign_in">SIGN IN</string>
+    <string name="error_invalid_password">Password Yang Anda Masukan Salah</string>
+    <string name="error_field_required">Isi Terlebih Dahulu</string>
+    <string name="error_invalid_email">Email Yang Anda Masukan Salah</string>
+</resources>
